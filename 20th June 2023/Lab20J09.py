@@ -32,3 +32,7 @@ print(my_list)
 
 my_list.pop()
 print(my_list)
+
+
+N_LIST = [[1], [2,3], [4,5,6]]
+print(N_LIST)
